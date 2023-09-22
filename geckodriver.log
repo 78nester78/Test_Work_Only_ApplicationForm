@@ -1,0 +1,69 @@
+1695296237175	geckodriver	INFO	Listening on 127.0.0.1:55749
+1695296240271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\neste\\AppData\\Local\\Temp\\rust_mozprofileseYBAR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695296240713	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695296240796	Marionette	INFO	Listening on port 55758
+WebDriver BiDi listening on ws://127.0.0.1:55750
+Read port: 55758
+1695296241065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55750/devtools/browser/88eeea61-0aac-47ae-a5e1-df9fedb561b2
+1695296245696	Marionette	INFO	Stopped listening on port 55758
+JavaScript warning: https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js, line 25: Script terminated by timeout at:
+e@https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js:25:14295
+
+Dynamically enable window occlusion 1
+1695367815684	geckodriver	INFO	Listening on 127.0.0.1:53500
+1695367818762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\neste\\AppData\\Local\\Temp\\rust_mozprofileDDOhPb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695367819206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695367819288	Marionette	INFO	Listening on port 53510
+WebDriver BiDi listening on ws://127.0.0.1:53501
+Read port: 53510
+1695367819523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53501/devtools/browser/6b8abf3e-d981-45ee-b58a-a88457b4c9ae
+1695367826293	Marionette	INFO	Stopped listening on port 53510
+JavaScript warning: https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js, line 17: Script terminated by timeout at:
+54203/n.unstable_now@https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js:17:638
+N@https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js:17:1816
+oQ@https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js:9:106716
+oL@https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js:9:101760
+w@https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js:17:1375
+z@https://only.digital/_next/static/chunks/framework-e4d2fef164adecd3.js:17:1904
+
+Dynamically enable window occlusion 1
+1695367866896	geckodriver	INFO	Listening on 127.0.0.1:53602
+1695367869958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\neste\\AppData\\Local\\Temp\\rust_mozprofile4m8JQF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695367870359	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695367870436	Marionette	INFO	Listening on port 53613
+WebDriver BiDi listening on ws://127.0.0.1:53603
+Read port: 53613
+1695367870683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53603/devtools/browser/ce6ea07b-ce26-44a9-9044-cb422610e6e8
+1695367874475	Marionette	INFO	Stopped listening on port 53613
+Dynamically enable window occlusion 1
+1695367890082	geckodriver	INFO	Listening on 127.0.0.1:53680
+1695367893160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\neste\\AppData\\Local\\Temp\\rust_mozprofileigwN7a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695367893478	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695367893546	Marionette	INFO	Listening on port 53690
+WebDriver BiDi listening on ws://127.0.0.1:53681
+Read port: 53690
+1695367893757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53681/devtools/browser/86d3091f-9a9b-4f83-9dfa-7aa4b09e0259
+1695367898582	Marionette	INFO	Stopped listening on port 53690
+JavaScript warning: https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js, line 453: Script terminated by timeout at:
+t3@https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js:453:9288
+67287/e.exports/a6/<@https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js:453:63033
+a6@https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js:453:63075
+aR@https://only.digital/_next/static/chunks/pages/_app-8dd872f07732ee93.js:453:75694
+
+Dynamically enable window occlusion 1
